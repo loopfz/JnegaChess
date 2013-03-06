@@ -23,17 +23,10 @@
  */
 package shaft.jnegachess.chess;
 
-import shaft.jnegachess.game.NegamaxSolver;
-import shaft.jnegachess.game.IGameTreeSolver;
-import shaft.jnegachess.game.IGameTree;
-import shaft.jnegachess.chess.pieces.Knight;
-import shaft.jnegachess.chess.pieces.Bishop;
-import shaft.jnegachess.chess.pieces.Pawn;
-import shaft.jnegachess.chess.pieces.Rook;
-import shaft.jnegachess.chess.pieces.King;
-import shaft.jnegachess.chess.pieces.Queen;
 import java.util.LinkedList;
 import java.util.List;
+import shaft.jnegachess.chess.pieces.*;
+import shaft.jnegachess.game.*;
 
 /**
  *
@@ -43,7 +36,7 @@ public class ChessGame implements IGameTree, IChessBoard {
     private List<IGameTree> _children;
     private int _nodeValue;
     private boolean _wasEval;
-    IChessPiece[][] _board;
+    private IChessPiece[][] _board;
     private boolean _player;
     private boolean _isRoot;
     private ChessMove _lastMove;

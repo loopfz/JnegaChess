@@ -1,4 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/Users/loop/NetBeansProjects/JnegaChess/src/shaft/jnegachess/chess/pieces/AChessPiece.java</file>
+        <file>file:/Users/loop/NetBeansProjects/JnegaChess/src/shaft/jnegachess/chess/pieces/Bishop.java</file>
+        <file>file:/Users/loop/NetBeansProjects/JnegaChess/src/shaft/jnegachess/chess/pieces/IPositionExec.java</file>
+        <file>file:/Users/loop/NetBeansProjects/JnegaChess/src/shaft/jnegachess/chess/pieces/King.java</file>
+        <file>file:/Users/loop/NetBeansProjects/JnegaChess/src/shaft/jnegachess/chess/pieces/Knight.java</file>
+        <file>file:/Users/loop/NetBeansProjects/JnegaChess/src/shaft/jnegachess/chess/pieces/Pawn.java</file>
+        <file>file:/Users/loop/NetBeansProjects/JnegaChess/src/shaft/jnegachess/chess/pieces/Queen.java</file>
+        <file>file:/Users/loop/NetBeansProjects/JnegaChess/src/shaft/jnegachess/chess/pieces/Rook.java</file>
+        <file>file:/Users/loop/NetBeansProjects/JnegaChess/src/shaft/jnegachess/chessgui/ChessGUI.java</file>
+        <file>file:/Users/loop/NetBeansProjects/JnegaChess/src/shaft/jnegachess/game/IGameTree.java</file>
+        <file>file:/Users/loop/NetBeansProjects/JnegaChess/src/shaft/jnegachess/game/IGameTreeSolver.java</file>
+        <file>file:/Users/loop/NetBeansProjects/JnegaChess/src/shaft/jnegachess/chess/ChessGame.java</file>
+        <file>file:/Users/loop/NetBeansProjects/JnegaChess/src/shaft/jnegachess/chess/ChessMove.java</file>
+        <file>file:/Users/loop/NetBeansProjects/JnegaChess/src/shaft/jnegachess/chess/IChessBoard.java</file>
+        <file>file:/Users/loop/NetBeansProjects/JnegaChess/src/shaft/jnegachess/chess/IChessPiece.java</file>
+        <file>file:/Users/loop/NetBeansProjects/JnegaChess/src/shaft/jnegachess/game/NegamaxSolver.java</file>
+    </open-files>
 </project-private>
