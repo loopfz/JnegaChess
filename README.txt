@@ -31,9 +31,3 @@ piece type. No quiescence search or other chess-specific optimizations
 are applied since this was not the goal pursued.
 
 Human player plays white, good luck!
-
---------------------------------------------------------------------------------
-| Versions                                                                     |
---------------------------------------------------------------------------------
-
-2013-03-01	Version 0.1
